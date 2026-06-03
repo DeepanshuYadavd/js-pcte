@@ -1,0 +1,16 @@
+variables
+string and its methods
+number and its methods
+boolean, undefined, null
+
+functions
+array
+objects
+
+asynchronous js
+
+react
+
+node, express, mongodb
+
+ai ml path and roadmap
