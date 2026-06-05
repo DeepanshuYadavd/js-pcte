@@ -3,8 +3,13 @@ string and its methods
 number and its methods
 boolean, undefined, null
 
+array and its methods:
+loops
 functions
-array
+for each, map, reduce , filters
+control statements
+
+
 objects
 
 asynchronous js
