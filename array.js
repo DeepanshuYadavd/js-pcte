@@ -16,5 +16,3 @@ arr.shift();
 console.log(arr);
 arr.unshift("z");
 console.log(arr);
-
-
