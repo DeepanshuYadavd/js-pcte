@@ -154,9 +154,9 @@ const data = ["Porche", "Defender", "Endavour", "Rubicon"];
 // });
 // console.log(oneOnly);
 
-const arr = [45, 34, 23, 78];
-const result = arr.reduce((acc, num) => {
-  return acc + num;
-}, 0);
+// const arr = [45, 34, 23, 78];
+// const result = arr.reduce((acc, num) => {
+//   return acc + num;
+// }, 0);
 
-console.log(result);
+// console.log(result);
