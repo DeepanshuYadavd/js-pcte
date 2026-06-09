@@ -49,9 +49,21 @@
 // console.log(traffic_light("red"));
 
 // function to print table :
-function table(num) {
-  for (let i = 1; i <= 10; i++) {
-    console.log(`${num} x ${i}= ${num * i}`);
-  }
-}
-table(13);
+// function table(num) {
+//   for (let i = 1; i <= 10; i++) {
+//     console.log(`${num} x ${i}= ${num * i}`);
+//   }
+// }
+// table(13);
+
+//   arrow function:
+// const table = (num) => {
+//   for (let i = 1; i <= 10; i++) {
+//     console.log(`${num} x ${i}= ${num * i}`);
+//   }
+// };
+
+// table(16);
+
+
+
