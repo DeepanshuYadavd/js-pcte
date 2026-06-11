@@ -223,7 +223,5 @@ const r = students.find((item) => {
 });
 
 console.log(r);
-
 r.branch = "bca";
-
 console.log(r);
